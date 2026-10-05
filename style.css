@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main-heading {
+    color: #8495a0;
+    font-size: 32px;
+    text-align: center;
+}
+
+.profile-img {
+    display: block;
+    margin: 0 auto 15px auto;
+    width: 90px;
+    height: 100px;
+}
+
+.profile-text {
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+.skills-list {
+    list-style-type: square;
+    background-color: #727477;
+    padding: 15px 30px;
+    border-radius: 6px;
+    width: 280px;
+}
+
+.skills-list li {
+    margin: 6px 0;
+    color: #313538;
+    font-weight: bold;
+}
+
+#Prashanna {
+    color: rgb(83, 48, 74);
+}
+
+.Green {
+    color: rgb(41, 74, 41);
+    text-align: center;
+}
+
+.Blue {
+    color: rgb(27, 63, 73);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    border: 2px solid rgb(69, 34, 34);
+    padding: 15px;
+    margin: 15px 0;
+    height: 90px;
+    width: 320px;
+    box-sizing: border-box;
+}
+
+.box1 {
+    background-color: rgb(11, 89, 113);
+    color: rgb(187, 162, 201);
+    font-weight: bold;
+    border-color: rgb(59, 73, 3);
+}
+
+#box2 {
+    background-color: rgb(59, 46, 113);
+    color: rgb(122, 113, 121);
+    text-align: center;
+    border-style: dashed;
+    font-style: italic;
+}
